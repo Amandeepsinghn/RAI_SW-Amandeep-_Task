@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+transformers
+torch
+tensorflow
+nltk
+scikit-learn
+pymupdf
+sentencepiece
